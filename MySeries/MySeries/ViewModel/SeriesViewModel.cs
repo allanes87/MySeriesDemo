@@ -26,7 +26,6 @@ namespace MySeries.ViewModel
 
         public SeriesViewModel()
         {
-            Series = new List<Series>();
             LoadSeries();
         }
 
